@@ -1,0 +1,6 @@
+[submodule "threadx"]
+	path = threadx
+	url = git@github.com:eclipse-threadx/threadx.git
+[submodule "polarfire-platform"]
+	path = polarfire-platform
+	url = git@github.com:polarfire-soc/platform.git
